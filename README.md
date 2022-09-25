@@ -1,4 +1,4 @@
-# Epsilon-s-Simple-Password-Generator
+# Epsilon-Simple-Password-Generator
 Making one and unique Password Generator, but in multiple language.
 
 ###################################################################
