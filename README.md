@@ -5,6 +5,8 @@ Making one and unique Password Generator, but in multiple language.
 ###################################################################
 ###################################################################
 
-For Java You are going to need Jave 8 or more.
+For Java You need Jave 8 or more.
 
-For Python You are going to need Tkinter Library for it.
+For Python You need Tkinter Library for it.
+
+For C# You need .NET Framework 4.6.1.
