@@ -6,7 +6,7 @@ Making one and unique Password Generator, but in multiple language.
 ###################################################################
 
 Most of them do a copy to clipboard when the textbox is clicked 
-,only python dont do it 
+, only python dont do it 
 
 For Java You need Jave 8 or more.
 
